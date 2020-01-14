@@ -60,10 +60,9 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>1.0</id>
+      <id>transport</id>
       <name>CourseAPI</name>
-      <url>http://localhost:8090</url>
-      <layout>default</layout>
+      <url>http://localhost:8090/transport</url>
     </repository>
-</distributionManagement> 
+</distributionManagement>
 </project>
