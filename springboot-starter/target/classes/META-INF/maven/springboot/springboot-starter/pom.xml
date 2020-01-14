@@ -13,11 +13,11 @@
   </parent>
   
   <dependencies>
-  <dependency>
+  <!-- <dependency>
                     <groupId>org.apache.maven.scm</groupId>
                     <artifactId>maven-scm-provider-gitexe</artifactId>
                     <version>1.9.4</version>
-                </dependency>
+                </dependency> -->
   	<dependency>
   		<groupId>org.springframework.boot</groupId>
   		<artifactId>spring-boot-starter-web</artifactId>
