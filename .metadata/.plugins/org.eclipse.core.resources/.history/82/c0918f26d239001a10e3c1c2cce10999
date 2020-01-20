@@ -3,7 +3,6 @@
   <groupId>springboot</groupId>
   <artifactId>springboot-starter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
   <name>Course API</name>
   
   <parent>
@@ -53,16 +52,16 @@
   	<java.version>1.8</java.version>
   </properties>
   
-  <!-- <distributionManagement>
+  <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>C.API</id>
       <name>CourseAPI</name>
       <url>http://localhost</url>
     </repository>
-</distributionManagement> -->
+</distributionManagement>
 
-<!-- <dependencyManagement>
+<dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -72,5 +71,5 @@
             <type>pom</type>
         </dependency>   
     </dependencies>
-</dependencyManagement> -->
+</dependencyManagement>
 </project>

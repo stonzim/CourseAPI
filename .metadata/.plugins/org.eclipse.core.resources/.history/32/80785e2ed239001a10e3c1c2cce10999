@@ -18,5 +18,5 @@ endpoints.health.sensitive=false
 server.port = 8090
 
 ##Disable server
-#spring.main.web-application-type=none
+spring.main.web-application-type=none
 #spring.main.web-environment=false
