@@ -13,9 +13,9 @@
   	<relativePath/>
   </parent>
   
-  <build>
+  <!-- <build>
     <finalName>${project.artifactId}</finalName>
-  </build>
+  </build> -->
 
   <dependencies>
   	<dependency>
