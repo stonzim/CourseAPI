@@ -13,6 +13,10 @@
   	<relativePath/>
   </parent>
   
+  <build>
+    <finalName>${artifactId}</finalName>
+  </build>
+
   <dependencies>
   	<dependency>
         <groupId>org.springframework.boot</groupId>
