@@ -50,7 +50,6 @@ INDEX VERSION 1.131+/Users/winston/Desktop/CourseAPI/Backend/.metadata/.plugins/
 2789347806.index
 1428062040.index
 1144384042.index
-2512304778.index
 1629876000.index
 1622405751.index
 1035489409.index
