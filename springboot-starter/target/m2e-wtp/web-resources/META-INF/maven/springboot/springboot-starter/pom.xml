@@ -18,9 +18,9 @@
   	<junit.jupiter.version>5.4.0</junit.jupiter.version>
   </properties>
   
-  <!-- <build>
-    <finalName>${project.artifactId}</finalName>
-  </build> -->
+  <build>
+    <finalName>courseapi</finalName>
+  </build>
 
   <dependencies>
   	<dependency>
