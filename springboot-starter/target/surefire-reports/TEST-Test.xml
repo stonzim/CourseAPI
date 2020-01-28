@@ -2,7 +2,7 @@
 <testsuite name="Test" time="0" tests="0" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="JOB_NAME" value="CourseAPI"/>
+    <property name="JOB_NAME" value="CAPI"/>
     <property name="JAVA_MAIN_CLASS_872" value="Main"/>
     <property name="PWD" value="/Applications/Jenkins"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
@@ -24,12 +24,12 @@
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="SECURITYSESSIONID" value="186aa"/>
     <property name="user.language" value="en"/>
-    <property name="JOB_BASE_NAME" value="CourseAPI"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/CourseAPI/86/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#86"/>
+    <property name="JOB_BASE_NAME" value="CAPI"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/CAPI/7/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#7"/>
     <property name="TMPDIR" value="/var/folders/v9/d7nw8nxn7292yd_zccjhpbc40000gn/T/"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib"/>
-    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="010ee525b10e0e9f271d1c6d7b089afb7db6481d"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="779f3fc0a4e6c6e5b83ac20c1f64eae0dd4bd48a"/>
     <property name="java.version" value="1.8.0_171"/>
     <property name="XPC_FLAGS" value="0x0"/>
     <property name="user.timezone" value="Australia/Melbourne"/>
@@ -38,7 +38,7 @@
     <property name="TERM" value="xterm-256color"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/endorsed"/>
-    <property name="BUILD_ID" value="86"/>
+    <property name="BUILD_ID" value="7"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -52,13 +52,13 @@
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="10.13.6"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/CourseAPI/86/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/CAPI/7/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
     <property name="path.separator" value=":"/>
     <property name="java.vm.version" value="25.171-b11"/>
-    <property name="GIT_PREVIOUS_COMMIT" value="010ee525b10e0e9f271d1c6d7b089afb7db6481d"/>
-    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/CourseAPI/display/redirect"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="779f3fc0a4e6c6e5b83ac20c1f64eae0dd4bd48a"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/CAPI/display/redirect"/>
     <property name="SHLVL" value="1"/>
     <property name="_" value="/usr/bin/java"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
@@ -72,7 +72,7 @@
     <property name="HOME" value="/Users/winston"/>
     <property name="POM_GROUPID" value="springboot"/>
     <property name="user.home" value="/Users/winston"/>
-    <property name="BUILD_TAG" value="jenkins-CourseAPI-86"/>
+    <property name="BUILD_TAG" value="jenkins-CAPI-7"/>
     <property name="JENKINS_SERVER_COOKIE" value="01bb22ebab76229f"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="XPC_SERVICE_NAME" value="0"/>
@@ -86,7 +86,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="/Users/winston/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven"/>
     <property name="java.class.path" value="/Users/winston/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.13.jar:/Users/winston/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven/boot/plexus-classworlds-2.6.0.jar:/Users/winston/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Users/winston/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven /Users/winston/.jenkins/war/WEB-INF/lib/remoting-3.36.jar /Users/winston/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar /Users/winston/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar 50988"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Users/winston/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven /Users/winston/.jenkins/war/WEB-INF/lib/remoting-3.36.jar /Users/winston/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar /Users/winston/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar 51022"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PATH+JDK" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/bin"/>
     <property name="java.vm.specification.version" value="1.8"/>
@@ -96,7 +96,7 @@
     <property name="java.io.tmpdir" value="/var/folders/v9/d7nw8nxn7292yd_zccjhpbc40000gn/T/"/>
     <property name="HUDSON_HOME" value="/Users/winston/.jenkins"/>
     <property name="PATH+MAVEN" value="/Users/winston/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven/bin"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/CourseAPI/86/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/CAPI/7/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="PS1" value="\[\033[92m\]\u@\h: \[\033[95m\]$(echo -n &quot;/Applications/Jenkins&quot; | awk &quot;$MYPSDIR_AWK&quot;)\[\033[0;36m\]$(git-branch-prompt)\[\033[95m\] $\[\033[0m\] "/>
     <property name="MYPSDIR" value="$(echo -n &quot;/Applications/Jenkins&quot; | awk &quot;$MYPSDIR_AWK&quot;)"/>
@@ -106,22 +106,22 @@
     <property name="java.ext.dirs" value="/Users/winston/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
     <property name="__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0"/>
     <property name="user.dir" value="/Users/winston/Desktop/CourseAPI/Backend/springboot-starter"/>
-    <property name="JOB_URL" value="http://localhost:8080/job/CourseAPI/"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/CAPI/"/>
     <property name="line.separator" value="&#10;"/>
     <property name="MAVEN_HOME" value="/Users/winston/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="86"/>
+    <property name="BUILD_NUMBER" value="7"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="TERM_PROGRAM_VERSION" value="404"/>
     <property name="GIT_BRANCH" value="origin/master"/>
-    <property name="GIT_COMMIT" value="779f3fc0a4e6c6e5b83ac20c1f64eae0dd4bd48a"/>
+    <property name="GIT_COMMIT" value="fde063cac72e73f7c6e1ea07bdd090873cc50343"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="LANG" value="en_NZ.UTF-8"/>
     <property name="maven3.interceptor" value="/Users/winston/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar"/>
-    <property name="WORKSPACE" value="/Users/winston/.jenkins/workspace/CourseAPI"/>
+    <property name="WORKSPACE" value="/Users/winston/.jenkins/workspace/CAPI"/>
     <property name="maven3.interceptor.common" value="/Users/winston/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="USER" value="winston"/>
-    <property name="GIT_URL" value="git@github.com:stonzim/CourseAPI.git"/>
+    <property name="GIT_URL" value="https://github.com/stonzim/CourseAPI.git/"/>
   </properties>
 </testsuite>
