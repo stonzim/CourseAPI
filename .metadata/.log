@@ -4744,3 +4744,233 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2020-01-28 01:31:14.594
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:47.971
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:47.975
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:47.976
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:47.978
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:47.983
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:48.368
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:48.369
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:48.371
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:48.372
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:50:48.379
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.087
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.088
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.090
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.092
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.245
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.397
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.398
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.400
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.401
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:23.408
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:56.658
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:56.660
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:56.662
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:56.664
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:56.672
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:57.411
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:57.412
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:57.413
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:57.414
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:59.531
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:59.532
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:59.533
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:59.534
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:51:59.542
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.100
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.101
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.103
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.105
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.108
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.722
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.724
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.726
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:27.727
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:28.711
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:28.713
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:28.715
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:28.717
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00.M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00.M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:52:28.725
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00.M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.205
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.206
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.207
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.208
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.212
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.503
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.504
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.506
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.507
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:09.513
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:34.876
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:34.877
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:34.879
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:34.880
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:34.884
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:35.569
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:35.572
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:35.573
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:35.574
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:36.580
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:36.581
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:36.582
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:36.583
+!MESSAGE Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:3.00-M4: Plugin org.apache.maven.plugins:maven-surefire-plugin:3.00-M4 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-01-28 19:54:36.590
+!MESSAGE The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.00-M4 is missing, no dependency information available
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-01-29 08:04:29.232
+!MESSAGE Internal Error
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.AbstractDocument.getChar(AbstractDocument.java:782)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getChar(SynchronizableDocument.java:141)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getBracketHoverInfo(JavaSourceHover.java:179)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo(JavaSourceHover.java:140)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaSourceHover.getHoverInfo2(JavaSourceHover.java:120)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
