@@ -1,10 +1,10 @@
 main/topic/TopicService.class
-main/controller/HelloController.class
 main/topic/Topic.class
 main/course/CourseService.class
 main/topic/TopicController.class
 main/CourseApiApp.class
 main/topic/TopicRepository.class
+main/index/WelcomeController.class
 main/course/CourseRepository.class
 main/course/CourseController.class
 main/course/Course.class

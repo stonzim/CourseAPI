@@ -3,8 +3,8 @@
 /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/topic/TopicRepository.java
 /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/course/Course.java
 /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/topic/Topic.java
-/Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/controller/HelloController.java
 /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/topic/TopicController.java
+/Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/index/WelcomeController.java
 /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/course/CourseController.java
 /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/CourseApiApp.java
 /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/src/main/java/main/topic/TopicService.java
