@@ -23,7 +23,6 @@ public class Course {
 	private String name;
 	@Column
 	private String description;
-	@Column
 	@ManyToOne
 	@JoinColumn(name="TOPICID")
 	private Topic topic;
