@@ -15,7 +15,7 @@ import main.topic.Topic;
 public class CourseController {
 	
 	@Autowired
-	private CourseService courseService; 
+	private CourseServiceImpl courseService; 
 	
 	@RequestMapping("/topics/{id}/courses")
 	public List<Course> getAllCourses(@PathVariable int id) {

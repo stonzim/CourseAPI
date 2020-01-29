@@ -1,8 +1,8 @@
-main/topic/TopicService.class
+main/topic/TopicServiceImpl.class
 main/topic/Topic.class
-main/course/CourseService.class
 main/topic/TopicController.class
 main/CourseApiApp.class
+main/course/CourseServiceImpl.class
 main/topic/TopicRepository.class
 main/index/WelcomeController.class
 main/course/CourseRepository.class

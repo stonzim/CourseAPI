@@ -1,37 +1,16 @@
 package main.course;
 
-import java.util.ArrayList;
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
+public interface CourseService {
 
-@Service
-public class CourseService {
+	public List<Course> getAllCourses(int topicId);
 	
-	@Autowired
-	private CourseRepository courseRepository;
+	public Course getCourse(int id);
 	
-	public List<Course> getAllCourses(int topicId) {
-		List<Course> courses = new ArrayList<>();
-		courseRepository.findByTopicId(topicId).forEach(courses::add);
-// 		courses = courseRepository.findByTopicId(topicId)     // This also works!!!!!
-		return courses; 
-	}
+	public void addCourse(Course course);
 	
-	public Course getCourse(int id) {
-		return courseRepository.findOne(id);
-	}
+	public void updateCourse(Course course);
 	
-	public void addCourse(Course course) {
-		courseRepository.save(course);
-	}
-	
-	public void updateCourse(Course course) {
-		courseRepository.save(course);
-	}
-
-	public void deleteCourse(int id) {
-		courseRepository.delete(id);
-	}
+	public void deleteCourse(int id);
 }
