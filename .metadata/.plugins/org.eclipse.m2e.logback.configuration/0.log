@@ -4031,3 +4031,17 @@ org.eclipse.jdt.core.JavaModelException: target/springboot-starter-0.0.1-SNAPSHO
 2020-04-21 22:44:33,497 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springboot-starter
 2020-04-21 22:44:33,497 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springboot-starter
 2020-04-21 22:44:33,503 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:09,102 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: springboot:springboot-starter:0.0.1-SNAPSHOT @ /Users/winston/Desktop/CourseAPI/Backend/springboot-starter/pom.xml.
+2020-04-21 23:04:10,757 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:10,762 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 23:04:10,762 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 23:04:10,765 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:10,765 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 23:04:10,766 [Worker-24: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springboot-starter
+2020-04-21 23:04:10,766 [Worker-24: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springboot-starter
+2020-04-21 23:04:10,772 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:12,504 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:12,509 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 23:04:12,525 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 23:04:12,528 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:12,529 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
