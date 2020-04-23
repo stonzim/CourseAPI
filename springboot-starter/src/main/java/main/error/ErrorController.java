@@ -1,12 +1,12 @@
-package main.index;
+package main.error;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController()
-public class WelcomeController {
-	@RequestMapping("/")
+public class ErrorController {
+	@RequestMapping("/error")
 	public String welcome() {
-		return "!!!!!!!Welcome To Stonzim Courses!!!!!!!";
+		return "Ooops - Something went wrong";
 	}
 }
