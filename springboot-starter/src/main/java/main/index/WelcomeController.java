@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class WelcomeController {
 	@RequestMapping("/")
 	public String welcome() {
-		return "!!!!!!!Welcome To The Topics Page!!!!!!!";
+		return "Home Page Mother fucker!!";
 	}
 }

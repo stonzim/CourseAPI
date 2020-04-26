@@ -15,7 +15,7 @@ import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
 
 	@Autowired
-	UserDetailsService userDetailService;
+	UserDetailsService userDetailsService;
 	
 	@Override
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
@@ -27,7 +27,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
 //		.withUser("si")
 //		.password("pass")
 //		.roles("USER");
-		auth.userDetailsService(userDetailService);
+		auth.userDetailsService(userDetailsService);
 	}
 	
 	@Bean
@@ -39,19 +39,20 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
 	protected void configure(HttpSecurity http) throws Exception {
 		http.authorizeRequests()
 		.antMatchers("/admin").hasRole("ADMIN")
-		.antMatchers("/details").hasAnyRole("USER", "ADMIN")
+		.antMatchers("/details").hasRole("USER")
 		.antMatchers("/topics").permitAll()
+		.antMatchers("/students").permitAll()
 		.antMatchers("/").permitAll()
-		.and().formLogin()
-		.and()
-        .logout()
-            .logoutRequestMatcher(new AntPathRequestMatcher("/logout"))            
-            .logoutSuccessUrl("/login")
-            .invalidateHttpSession(true)        
-            .deleteCookies("JSESSIONID")        
-            .and()
-        .exceptionHandling()
-            .accessDeniedPage("/403");
+		.and().formLogin();
+//		.and()
+//        .logout()
+//            .logoutRequestMatcher(new AntPathRequestMatcher("/logout"))            
+//            .logoutSuccessUrl("/login")
+//            .invalidateHttpSession(true)        
+//            .deleteCookies("JSESSIONID")        
+//            .and()
+//        .exceptionHandling()
+//            .accessDeniedPage("/403");
 	}
 
 	
