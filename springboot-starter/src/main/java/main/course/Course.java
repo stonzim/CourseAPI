@@ -24,7 +24,7 @@ public class Course {
 	@Column
 	private String description;
 	@ManyToOne
-	@JoinColumn(name="TOPICID")
+	@JoinColumn(name="topicid")
 	private Topic topic;
 	
 	public Course(){}

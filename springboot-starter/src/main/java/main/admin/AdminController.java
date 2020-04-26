@@ -10,3 +10,4 @@ public class AdminController {
 		return "Admin Page";
 	}
 }
+
