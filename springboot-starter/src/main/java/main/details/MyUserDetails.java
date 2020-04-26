@@ -21,7 +21,7 @@ public class MyUserDetails implements UserDetails{
 	private int studentid;
 	private String username;
 	private String firstname;
-//	private String lastName;
+	private String lastname;
 	private String password;
 //	private String birthdate;
 	private List <GrantedAuthority> authorities;
@@ -31,18 +31,13 @@ public class MyUserDetails implements UserDetails{
 		this.studentid = user.getStudentid();
 		this.username = user.getUsername();
 		this.firstname = user.getFirstname();
-//		this.lastName = user.getLastname();
+		this.lastname = user.getLastname();
 		this.password = user.getPassword();
 //		this.birthdate = user.getBirthdate();
 //		this.courses = user.getCourses();
 		this.authorities = Arrays.stream(user.getRoles().split(","))
 				.map(SimpleGrantedAuthority::new)
 				.collect(Collectors.toList());
-//		List<GrantedAuthority> authorities = new ArrayList<>();
-//		user.getRoleList().forEach(r -> {
-//			GrantedAuthority authority = new SimpleGrantedAuthority(r);
-//			authorities.add(authority);
-//		});
 		
 	}
 
@@ -66,9 +61,9 @@ public class MyUserDetails implements UserDetails{
 	public String getFirstName() {
 		return firstname;
 	}
-//	public String getLastName() {
-//		return lastName;
-//	}
+	public String getLastName() {
+		return lastname;
+	}
 //	public String getBirthdate() {
 //		return birthdate;
 //	}
