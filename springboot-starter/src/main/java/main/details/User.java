@@ -24,8 +24,8 @@ public class User {
 private int studentid;
 @Column
 private String firstname;
-//@Column
-//private String lastName;
+@Column
+private String lastname;
 //@Column
 //private String birthdate;
 @Column(name = "blah")
@@ -60,12 +60,12 @@ public String getFirstname() {
 public void setFirstname(String firstname) {
 	this.firstname = firstname;
 }
-//public String getLastname() {
-//	return lastName;
-//}
-//public void setLastname(String lastName) {
-//	this.lastName = lastName;
-//}
+public String getLastname() {
+	return lastname;
+}
+public void setLastname(String lastname) {
+	this.lastname = lastname;
+}
 //public String getBirthdate() {
 //	return birthdate;
 //}
@@ -92,12 +92,6 @@ public void setRoles(String roles) {
 	this.roles = roles;
 }
 
-//public List<String> getRoleList() {
-//	if( this.roles.length() > 0) {
-//		return Arrays.asList(this.roles.split(","));
-//	}
-//	return new ArrayList<>();
-//}
 //public List<Course> getCourses() {
 //	return courses;
 //}

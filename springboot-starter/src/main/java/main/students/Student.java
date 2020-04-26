@@ -15,17 +15,21 @@ public class Student {
 	@Column
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int studentid;
-	@Column
-	private String userName;
+	@Column(name = "blah")
+	private String username;
 	@Column
 	private String password;
 	@Column
 	private String roles;
+	@Column
+	private String firstname;
+	@Column
+	private String lastname;
 	
-	public Student(int studentid, String userName, String password, String roles) {
+	public Student(int studentid, String username, String password, String roles, String firstname, String lastname) {
 		super();
 		this.studentid = studentid;
-		this.userName = userName;
+		this.username = username;
 		this.password = password;
 		this.roles = roles;
 	}
@@ -37,16 +41,28 @@ public class Student {
 		this.studentid = studentid;
 	}
 	public String getUserName() {
-		return userName;
+		return username;
 	}
-	public void setUserName(String userName) {
-		this.userName = userName;
+	public void setUserName(String username) {
+		this.username = username;
 	}
 	public String getPassword() {
 		return password;
 	}
 	public void setPassword(String password) {
 		this.password = password;
+	}
+	public String getFirstname() {
+		return firstname;
+	}
+	public void setFirstname(String firstname) {
+		this.firstname = firstname;
+	}
+	public String getLastname() {
+		return lastname;
+	}
+	public void setLastname(String lastname) {
+		this.lastname = lastname;
 	}
 	public String getRoles() {
 		return roles;

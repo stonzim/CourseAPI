@@ -19,14 +19,6 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
 	
 	@Override
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
-//		auth.inMemoryAuthentication()
-//		.withUser("win")
-//		.password("pass")
-//		.roles("ADMIN")
-//		.and()
-//		.withUser("si")
-//		.password("pass")
-//		.roles("USER");
 		auth.userDetailsService(userDetailsService);
 	}
 	
@@ -39,20 +31,20 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter{
 	protected void configure(HttpSecurity http) throws Exception {
 		http.authorizeRequests()
 		.antMatchers("/admin").hasRole("ADMIN")
-		.antMatchers("/details").hasRole("USER")
+		.antMatchers("/details").hasAnyRole("USER", "ADMIN")
 		.antMatchers("/topics").permitAll()
 		.antMatchers("/students").permitAll()
 		.antMatchers("/").permitAll()
-		.and().formLogin();
-//		.and()
-//        .logout()
-//            .logoutRequestMatcher(new AntPathRequestMatcher("/logout"))            
-//            .logoutSuccessUrl("/login")
-//            .invalidateHttpSession(true)        
-//            .deleteCookies("JSESSIONID")        
-//            .and()
-//        .exceptionHandling()
-//            .accessDeniedPage("/403");
+		.and().formLogin()
+		.and()
+        .logout()
+            .logoutRequestMatcher(new AntPathRequestMatcher("/logout"))            
+            .logoutSuccessUrl("/login")
+            .invalidateHttpSession(true)        
+            .deleteCookies("JSESSIONID")        
+            .and()
+        .exceptionHandling()
+            .accessDeniedPage("/403");
 	}
 
 	
